@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "768430077318",
+    "project_id": "ratezilla-68d5e",
+    "storage_bucket": "ratezilla-68d5e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768430077318:android:58b9528b46e7946e822807",
+        "android_client_info": {
+          "package_name": "com.blueline.ratezilla"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "768430077318-rs9aknmtkbc8uecvgqgosiia87q7fkdv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_IOR2uDLigmLeek1z61uOdkOLjCGLbBA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "768430077318-rs9aknmtkbc8uecvgqgosiia87q7fkdv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
